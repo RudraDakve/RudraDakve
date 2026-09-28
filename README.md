@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🚀 Featured Projects
+
+- **[Verilog-Digital-Design](https://github.com/RudraDakve/Verilog-Digital-Design)** — Daily Verilog HDL practice log, building from basic logic gates up to adders and subtractors, simulated on EDA Playground / Cadence Xcelium.
+- **[Microcontroller-Mini-Projects](https://github.com/RudraDakve/Microcontroller-Mini-Projects)** — Arduino-based embedded projects: pushbutton LED control, OLED binary-to-decimal display, a traffic-light pedestrian system, and ultrasonic distance alerts.
+- **[Cpp-Engineering-Lab](https://github.com/RudraDakve/Cpp-Engineering-Lab)** — My first repository — early C++ programs covering calculators, resistance measurement, matrices, and digital logic simulations.
 <!--
 **RudraDakve/RudraDakve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
