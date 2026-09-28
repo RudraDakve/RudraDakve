@@ -1,21 +1,15 @@
-## Hi there 👋
+## Hi, I'm Rudra 👋
 
-## 🚀 Featured Projects
+First-year Electronics & Telecommunication (ENTC) student at **VIT Pune**, building toward a career in **VLSI design**. I'm learning digital design in Verilog and keeping my embedded systems skills alive with Arduino projects.
 
-- **[Verilog-Digital-Design](https://github.com/RudraDakve/Verilog-Digital-Design)** — Daily Verilog HDL practice log, building from basic logic gates up to adders and subtractors, simulated on EDA Playground / Cadence Xcelium.
-- **[Microcontroller-Mini-Projects](https://github.com/RudraDakve/Microcontroller-Mini-Projects)** — Arduino-based embedded projects: pushbutton LED control, OLED binary-to-decimal display, a traffic-light pedestrian system, and ultrasonic distance alerts.
-- **[Cpp-Engineering-Lab](https://github.com/RudraDakve/Cpp-Engineering-Lab)** — My first repository — early C++ programs covering calculators, resistance measurement, matrices, and digital logic simulations.
-<!--
-**RudraDakve/RudraDakve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 What I'm working on
+- Building up Verilog fundamentals, from logic gates to adders and subtractors (daily practice log)
+- Reviving my embedded projects, next up: [4-Bit Adder on Arduino]
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
+- **[Verilog-Digital-Design](https://github.com/RudraDakve/Verilog-Digital-Design)**: Daily Verilog HDL practice log, from basic logic gates to adders and subtractors, simulated on EDA Playground / Cadence Xcelium.
+- **[Microcontroller-Mini-Projects](https://github.com/RudraDakve/Microcontroller-Mini-Projects)**: Arduino projects: pushbutton LED, OLED binary-to-decimal display, pedestrian traffic light, ultrasonic distance alert.
+- **[Cpp-Engineering-Lab](https://github.com/RudraDakve/Cpp-Engineering-Lab)**: My first repo: C++ programs for calculators, resistor color codes, matrices and logic gate simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools
+Verilog · C/C++ · Arduino · EDA Playground · Wokwi · Git/GitHub
